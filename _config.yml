@@ -25,7 +25,9 @@ linkedin_username: stephen-shao-130253
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Stephen and I'm a Principal Software Engineer at Dell EMC, currently one of the Mid-range storage test architect.
+
   I am most skilled in <mark>information infrastructure technologies</mark>: Primary storage (Unity, VNX), Data protection solutions (Avamar, Datadomain). Especially good at <mark>file system testing</mark>: file access protocol, file systems and file data services. 
+
   I have solid test development (Python/Robot framework, Perl/Automatos) skills and CI experience.
   I am a proven tech leader on strategy making, test planning, test design & execution, etc in global projects.
 
