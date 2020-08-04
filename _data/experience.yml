@@ -1,14 +1,62 @@
 - layout: left
   company: Dell EMC
   link: dell.com
-  job_title: Principal Software Engineer
-  dates: May 2012 - Present
+  job_title: Test Architect
+  dates: Aug 2019 - Present
   quote: >
    Test architect of industry leading mid-range storage product - Unity, providing test strategy, assessment and consultancy to system testing teams in file space.
   description: | # this will include new lines to allow paragraphs
     - Unity File Test Architect, covers file access protocol, file system features and file data services.
     - Coordinating and drove Field Escaped Customer Issue analysis in file space, continuous mitigation and test improvements.
     - Overseeing File and CFT team technically.
+
+- layout: left
+  company: Dell EMC
+  link: dell.com
+  job_title: Principal Software Engineer
+  dates: Oct 2017 - Present
+  quote: >
+   Tech leader of file system testing team, built the team from scratch.
+  description: | # this will include new lines to allow paragraphs
+    - Built and led Unity file test team from scratch, to a very productive test team now.
+    - Responsible for Unity File data path tests: file protocol, filesystems, and file data services.
+    - Led LoadDynamix file test transfer to China and delivered exceptional outputs on finding critical DU issues.
+
+- layout: left
+  company: Dell EMC
+  link: dell.com
+  job_title: Principal SW Quality Engineer
+  dates: Feb 2016 - Oct 2017
+  quote: >
+   Tech leader of workflow QA team in Avamar product line.
+  description: | # this will include new lines to allow paragraphs
+    - Tech lead of Avamar Workflow QA team on test strategy, test plan, HLD & test case design, test automation and test execution
+    - Drove CI and continuous test execution from scratch
+    - Built test automation framework from starch and automated over 200 test cases with limited resources and within super tight release schedule
+    - Delivered deployment tools to enable CI for whole engineering team and being widely used over 8K times
+    - Expert on Avamar installation & automation on virtual(vSphere, Hyper-V, KVM, AWS, Azure) and non-virtual(Single/Multi Node) platforms
+
+- layout: left
+  company: EMC
+  link: emc.com
+  job_title: Associate Principal Software Engineer
+  dates: May 2014 - Jan 2016
+  quote: >
+   Data Migration CTC lead.
+  description: | # this will include new lines to allow paragraphs
+    - Unity and VNX In-Market test leader in Data Migration team, rich project leading experience.
+    - File Protocol test leader in Functional QE team, led File Protocol transition project from France to China within short period and under high pressure, ramped up China test execution team.
+
+- layout: left
+  company: EMC
+  link: emc.com
+  job_title: Associate Principal Software Engineer
+  dates: May 2012 - May 2014
+  quote: >
+   Functional regression test lead.
+  description: | # this will include new lines to allow paragraphs
+    - File regression test leader in Data Serivce EFT team, coordinated global file data service regression testing, led team that consist of local CoE and offshore TCS engineers.
+    - Expert on file data services functional regression and solution level tests.
 
 - layout: left
   company: Nokia Siemens Networks
