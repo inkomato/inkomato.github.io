@@ -9,6 +9,8 @@
     - Unity File Test Architect, covers file access protocol, file system features and file data services.
     - Coordinating and drove Field Escaped Customer Issue analysis in file space, continuous mitigation and test improvements.
     - Overseeing File and CFT team technically.
+
+- layout: left
   company: Nokia Siemens Networks
   link: nokia.com
   job_title: Senior Software Engineer
@@ -20,3 +22,12 @@
     - OSS software implementation (Perl), integration & verification, maintenance.
     - MMSC testing tool development. developed a tool in C++/Java that replaced LoadRunner performance testing.
 
+- layout: left
+  company: Neusoft
+  link: neusoft.com
+  job_title: Software Engineer
+  dates: July 2006 - Mar 2008
+  quote: >
+   Teleco application developer in Unix C.
+  description: | # this will include new lines to allow paragraphs
+    - Develop and test the instant communication and short messages components on application systems
